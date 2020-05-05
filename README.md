@@ -6,3 +6,4 @@ Postoji mogućnost upravljanja sadržajem kroz administrativni panel: objavljiva
 Sadrži funkcionalnu navigaciju sa dodatkom za pretragu.
 Neke stranice sadrže multimedijalne elemente (video i fotografije). 
 Na stranici je još potrebno poraditi na estetici, dodati neke widget-e za dodatne funkcionalnosti i dodatno urediti dio sadržaja.
+U fascikli Screenshots se nalaze fotografija veb sajta na kojima se nalaze dijelovi početne stranice kao i stranice Rangiranje i Blog. Ostale stranice su slične stranici Rangiranje.  
